@@ -1,0 +1,5151 @@
+[
+  {
+    "created_at": "Thu Mar 20 19:32:27 +0000 2014",
+    "id": 446731009049264129,
+    "id_str": "446731009049264129",
+    "text": "Love a page turner with twists? #mystery #kindle #ASMSG THE GORDONSTON LADIES DOG WALKING CLUB http://t.co/h9KGDbQx6f by @DuncanWhitehead",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 498293291,
+      "id_str": "498293291",
+      "name": "Marsha Roberts",
+      "screen_name": "MutinousBoomer",
+      "location": "",
+      "url": "http://www.mutinousbabyboomer.com",
+      "description": "Best Selling Author of Confessions of a Mutinous Baby Boomer and her Parable of the Tomato Plant.  I believe in angels, miracles, dogs and being happy!  #ASMSG",
+      "protected": false,
+      "followers_count": 2171,
+      "friends_count": 1955,
+      "listed_count": 39,
+      "created_at": "Mon Feb 20 22:01:14 +0000 2012",
+      "favourites_count": 941,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3206,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000802",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000113339875/8e0a435490cf1ab0eb3fe7957f9e045b.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000113339875/8e0a435490cf1ab0eb3fe7957f9e045b.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1841862138/MWR_Martini4Web_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1841862138/MWR_Martini4Web_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/498293291/1384096177",
+      "profile_link_color": "000802",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "mystery",
+          "indices": [
+            32,
+            40
+          ]
+        },
+        {
+          "text": "kindle",
+          "indices": [
+            41,
+            48
+          ]
+        },
+        {
+          "text": "ASMSG",
+          "indices": [
+            49,
+            55
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/h9KGDbQx6f",
+          "expanded_url": "http://bit.ly/1fED43r",
+          "display_url": "bit.ly/1fED43r",
+          "indices": [
+            95,
+            117
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "DuncanWhitehead",
+          "name": "Duncan Whitehead",
+          "id": 213320007,
+          "id_str": "213320007",
+          "indices": [
+            121,
+            137
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446731009049264129",
+    "entity_id": "446731009049264129",
+    "score": "446731009049264129",
+    "queued_at": 1395343950412,
+    "timeline_id": "608afcf8-b066-11e3-9215-1b225a836c67"
+  },
+  {
+    "created_at": "Thu Mar 20 19:32:12 +0000 2014",
+    "id": 446730948198293504,
+    "id_str": "446730948198293504",
+    "text": "http://t.co/ikqEqBNqAR this is my first ever kindle book on Amazon. It's about my first marathon...only £1.99. I'd love someone to read it!",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2398536168,
+      "id_str": "2398536168",
+      "name": "Rebecca Landhurst",
+      "screen_name": "runningvirgin",
+      "location": "London",
+      "url": "http://tinyurl.com/ng6cuhk",
+      "description": "❤️Twitter Virgin....lost my marathon virginity recently. Be the first to read a transcript of the conversations I had in my head during the race. Click below...",
+      "protected": false,
+      "followers_count": 153,
+      "friends_count": 650,
+      "listed_count": 0,
+      "created_at": "Wed Mar 19 22:31:17 +0000 2014",
+      "favourites_count": 2,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 43,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446564288312786944/w61kTcBb.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446564288312786944/w61kTcBb.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/446562721815724032/t3JfaXkc_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/446562721815724032/t3JfaXkc_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2398536168/1395304172",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ikqEqBNqAR",
+          "expanded_url": "http://tinyurl.com/q9rmz8e",
+          "display_url": "tinyurl.com/q9rmz8e",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446730948198293504",
+    "entity_id": "446730948198293504",
+    "score": "446730948198293504",
+    "queued_at": 1395343935936,
+    "timeline_id": "57ea3cf8-b066-11e3-9737-cf6d16d1dd5d"
+  },
+  {
+    "created_at": "Thu Mar 20 19:25:10 +0000 2014",
+    "id": 446729178478804992,
+    "id_str": "446729178478804992",
+    "text": "She never expected love to show up. IF YOU BELIEVED IN LOVE #Kindle http://t.co/dDUX4zUJFb #Christfic #fiction",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 858799772,
+      "id_str": "858799772",
+      "name": "Christian_Reads",
+      "screen_name": "Christian_Reads",
+      "location": "",
+      "url": null,
+      "description": "The best Christian books and ebooks from traditional and indie authors!",
+      "protected": false,
+      "followers_count": 1135,
+      "friends_count": 342,
+      "listed_count": 27,
+      "created_at": "Tue Oct 02 22:17:43 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 39231,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "102024",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675196681/f375f2e04669adbae5bfba3033640c51.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675196681/f375f2e04669adbae5bfba3033640c51.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2674589909/f375f2e04669adbae5bfba3033640c51_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2674589909/f375f2e04669adbae5bfba3033640c51_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/858799772/1349216586",
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Kindle",
+          "indices": [
+            60,
+            67
+          ]
+        },
+        {
+          "text": "Christfic",
+          "indices": [
+            91,
+            101
+          ]
+        },
+        {
+          "text": "fiction",
+          "indices": [
+            102,
+            110
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/dDUX4zUJFb",
+          "expanded_url": "http://ow.ly/uN15Q",
+          "display_url": "ow.ly/uN15Q",
+          "indices": [
+            68,
+            90
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446729178478804992",
+    "entity_id": "446729178478804992",
+    "score": "446729178478804992",
+    "queued_at": 1395343512997,
+    "timeline_id": "5bd2db8c-b065-11e3-9b96-caf340bb0472"
+  },
+  {
+    "created_at": "Thu Mar 20 19:20:51 +0000 2014",
+    "id": 446728092762247168,
+    "id_str": "446728092762247168",
+    "text": "She never expected love to show up. IF YOU BELIEVED IN LOVE #Kindle http://t.co/7DV84jgolJ #Christfic #fiction",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1062859832,
+      "id_str": "1062859832",
+      "name": "CrossReads",
+      "screen_name": "_CrossReads",
+      "location": "",
+      "url": "http://www.crossreads.com",
+      "description": "Where Christian Readers & Authors Meet",
+      "protected": false,
+      "followers_count": 2413,
+      "friends_count": 1177,
+      "listed_count": 33,
+      "created_at": "Sat Jan 05 12:06:50 +0000 2013",
+      "favourites_count": 2,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 45063,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "080808",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/757316769/687bdab7840edf4176201f188751e689.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/757316769/687bdab7840edf4176201f188751e689.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3073846404/c7cc4fe2825ad335a467c006b75a25cc_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3073846404/c7cc4fe2825ad335a467c006b75a25cc_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1062859832/1357436789",
+      "profile_link_color": "96810C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Kindle",
+          "indices": [
+            60,
+            67
+          ]
+        },
+        {
+          "text": "Christfic",
+          "indices": [
+            91,
+            101
+          ]
+        },
+        {
+          "text": "fiction",
+          "indices": [
+            102,
+            110
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/7DV84jgolJ",
+          "expanded_url": "http://ow.ly/uMQYk",
+          "display_url": "ow.ly/uMQYk",
+          "indices": [
+            68,
+            90
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446728092762247168",
+    "entity_id": "446728092762247168",
+    "score": "446728092762247168",
+    "queued_at": 1395343255987,
+    "timeline_id": "c2a224e0-b064-11e3-9d60-d8c58ab95ac4"
+  },
+  {
+    "created_at": "Thu Mar 20 19:17:41 +0000 2014",
+    "id": 446727295038791680,
+    "id_str": "446727295038791680",
+    "text": "\"Will you love me even as I curse you to the dark?\" #Paranormal \"I will love you especially in the dark\" #Kindle http://t.co/MJHfowU9by",
+    "source": "<a href=\"http://www.Feed140.com\" rel=\"nofollow\">feed_140</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 340272403,
+      "id_str": "340272403",
+      "name": "Charity Parkerson",
+      "screen_name": "CharityParkerso",
+      "location": "Tennessee",
+      "url": "http://www.charityparkerson.com",
+      "description": "Award winning and multi-published author. Chapter #207 RWA member. #TeamRazorRay I don't read DMs https://www.ellorascave.com/author/charity-parkerson",
+      "protected": false,
+      "followers_count": 47844,
+      "friends_count": 20685,
+      "listed_count": 654,
+      "created_at": "Fri Jul 22 12:37:07 +0000 2011",
+      "favourites_count": 630,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 309423,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "07090B",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/772580322/76b82ad177e35782903aceca933ece57.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/772580322/76b82ad177e35782903aceca933ece57.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1820866791/goodreads_pic_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1820866791/goodreads_pic_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/340272403/1394213371",
+      "profile_link_color": "C34242",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C9C9C9",
+      "profile_text_color": "1C1F23",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Paranormal",
+          "indices": [
+            52,
+            63
+          ]
+        },
+        {
+          "text": "Kindle",
+          "indices": [
+            105,
+            112
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/MJHfowU9by",
+          "expanded_url": "http://viewBook.at/B0053482GW",
+          "display_url": "viewBook.at/B0053482GW",
+          "indices": [
+            113,
+            135
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446727295038791680",
+    "entity_id": "446727295038791680",
+    "score": "446727295038791680",
+    "queued_at": 1395343064165,
+    "timeline_id": "504c8ae8-b064-11e3-86e3-0fb62326063c"
+  },
+  {
+    "created_at": "Thu Mar 20 19:15:01 +0000 2014",
+    "id": 446726622800916481,
+    "id_str": "446726622800916481",
+    "text": "Throwback Thursday! The TruLOVE Collection, Forbidden Love is a kindle bargain today at 1.99! #tbt... http://t.co/5TfTYpeLc2",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 558029707,
+      "id_str": "558029707",
+      "name": "TruLOVE Stories",
+      "screen_name": "TruLOVEStories",
+      "location": "Hollywood",
+      "url": "http://www.trulovestories.com",
+      "description": "Romance novels! Publishing #contemporary, #paranormal and spicy #romance plus new collections of #vintage stories like F. Scott Fitzgerald's #Gatsby Girls!",
+      "protected": false,
+      "followers_count": 5965,
+      "friends_count": 2463,
+      "listed_count": 46,
+      "created_at": "Thu Apr 19 20:23:21 +0000 2012",
+      "favourites_count": 701,
+      "utc_offset": -25200,
+      "time_zone": "Arizona",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4164,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/857809656/776ff146f3f336c7cfd6cb591f3c5e7b.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/857809656/776ff146f3f336c7cfd6cb591f3c5e7b.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2179769970/TLS_SQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2179769970/TLS_SQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/558029707/1384817623",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "tbt",
+          "indices": [
+            94,
+            98
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/5TfTYpeLc2",
+          "expanded_url": "http://fb.me/1YjpzeykR",
+          "display_url": "fb.me/1YjpzeykR",
+          "indices": [
+            102,
+            124
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446726622800916481",
+    "entity_id": "446726622800916481",
+    "score": "446726622800916481",
+    "queued_at": 1395342904694,
+    "timeline_id": "f13f3730-b063-11e3-80d7-bd678b5fb11e"
+  },
+  {
+    "created_at": "Thu Mar 20 19:09:36 +0000 2014",
+    "id": 446725262282358784,
+    "id_str": "446725262282358784",
+    "text": "Love Romantic Suspense?The Lady in Yellow # 99c Kindle @ http://t.co/bh4hJksQ3C Grab Now! #amcbuzz",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2203666639,
+      "id_str": "2203666639",
+      "name": "Neely Powell",
+      "screen_name": "NeelyPowell3",
+      "location": "",
+      "url": null,
+      "description": "Neely Powell writes paranormal stories with shapeshifters, witches, fae, and even Druids. See TRUE NATURE and THE WITCHES OF NEW MOURNE!",
+      "protected": false,
+      "followers_count": 131,
+      "friends_count": 241,
+      "listed_count": 1,
+      "created_at": "Tue Nov 19 19:48:42 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 102,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/440522292880105473/5AbNGUKH_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/440522292880105473/5AbNGUKH_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "amcbuzz",
+          "indices": [
+            90,
+            98
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/bh4hJksQ3C",
+          "expanded_url": "http://amzn.to/PENtRW",
+          "display_url": "amzn.to/PENtRW",
+          "indices": [
+            57,
+            79
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446725262282358784",
+    "entity_id": "446725262282358784",
+    "score": "446725262282358784",
+    "queued_at": 1395342580571,
+    "timeline_id": "300ddec2-b063-11e3-850a-f394fa00592e"
+  },
+  {
+    "created_at": "Thu Mar 20 19:04:56 +0000 2014",
+    "id": 446724085356433409,
+    "id_str": "446724085356433409",
+    "text": "Music can noble hints impart, Engender fury, kindle love, With unsuspected eloquence can move, And manage all the man with secret art. ~J.A.",
+    "source": "<a href=\"http://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16517588,
+      "id_str": "16517588",
+      "name": "Michael Jae",
+      "screen_name": "MichaelJae",
+      "location": "Orlando, FL. U.S.A.",
+      "url": "http://www.GuitarFresh.com",
+      "description": "I help guitarists stay inspired, have fun, & keep up with what's happening in the world of guitar so they can more fully enjoy playing the guitar.",
+      "protected": false,
+      "followers_count": 16325,
+      "friends_count": 9745,
+      "listed_count": 205,
+      "created_at": "Mon Sep 29 20:06:28 +0000 2008",
+      "favourites_count": 17,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 10002,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "89A5B1",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/583328524/8ghuic7ok833hxtzpgac.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/583328524/8ghuic7ok833hxtzpgac.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1909060249/Michael-Jae-01_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1909060249/Michael-Jae-01_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16517588/1348518569",
+      "profile_link_color": "00A2E8",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446724085356433409",
+    "entity_id": "446724085356433409",
+    "score": "446724085356433409",
+    "queued_at": 1395342299448,
+    "timeline_id": "887deff8-b062-11e3-9ef8-77bd45a3c9e0"
+  },
+  {
+    "created_at": "Thu Mar 20 19:03:43 +0000 2014",
+    "id": 446723780636057600,
+    "id_str": "446723780636057600",
+    "text": "Love blooms deep in the heart of Texas. \nThe Reluctant Rancher http://t.co/ValMD1R9v4  \n#kindle #BYNR #AuthorRT #IAN1 #IRInk",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16573906,
+      "id_str": "16573906",
+      "name": "J.D. Faver",
+      "screen_name": "JDFaverauthor",
+      "location": "Texas",
+      "url": "http://www.jdfaver.com",
+      "description": "Author of Romantic Thrillers & Suspense. Yes, I hear voices! I told you, I'm a writer. Find me here:http://ow.ly/c360N",
+      "protected": false,
+      "followers_count": 1828,
+      "friends_count": 1037,
+      "listed_count": 70,
+      "created_at": "Fri Oct 03 04:12:28 +0000 2008",
+      "favourites_count": 8,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 62376,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "B2DFDA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1601386739/BH_KindleSize_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1601386739/BH_KindleSize_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16573906/1355025740",
+      "profile_link_color": "93A644",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kindle",
+          "indices": [
+            88,
+            95
+          ]
+        },
+        {
+          "text": "BYNR",
+          "indices": [
+            96,
+            101
+          ]
+        },
+        {
+          "text": "AuthorRT",
+          "indices": [
+            102,
+            111
+          ]
+        },
+        {
+          "text": "IAN1",
+          "indices": [
+            112,
+            117
+          ]
+        },
+        {
+          "text": "IRInk",
+          "indices": [
+            118,
+            124
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ValMD1R9v4",
+          "expanded_url": "http://ow.ly/kYJLI",
+          "display_url": "ow.ly/kYJLI",
+          "indices": [
+            63,
+            85
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446723780636057600",
+    "entity_id": "446723780636057600",
+    "score": "446723780636057600",
+    "queued_at": 1395342229348,
+    "timeline_id": "5eb58a28-b062-11e3-9d7f-52d40609dfc1"
+  },
+  {
+    "created_at": "Thu Mar 20 19:02:29 +0000 2014",
+    "id": 446723468482977792,
+    "id_str": "446723468482977792",
+    "text": "So I LOVE my Kindle but I think I need to also have a device that reads EPUB files. What do you recommend?",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 47793959,
+      "id_str": "47793959",
+      "name": "Kate Tilton",
+      "screen_name": "K8Tilton",
+      "location": "New Hampshire",
+      "url": "http://katetilton.com",
+      "description": "Author assistant, social media manager for @BookTemplates, blogger, #K8chat host (Thursdays 9pm Eastern), nerdfighter, tea & cat lover.",
+      "protected": false,
+      "followers_count": 4529,
+      "friends_count": 2494,
+      "listed_count": 115,
+      "created_at": "Wed Jun 17 00:42:34 +0000 2009",
+      "favourites_count": 4057,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35731,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000119738151/d0ddb8cdeec0ed993d70649ac10bdee6.gif",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000119738151/d0ddb8cdeec0ed993d70649ac10bdee6.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000768999431/0b318cc4feec5333a8c061f22f810c8d_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000768999431/0b318cc4feec5333a8c061f22f810c8d_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/47793959/1384832790",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446723468482977792",
+    "entity_id": "446723468482977792",
+    "score": "446723468482977792",
+    "queued_at": 1395342153035,
+    "timeline_id": "31391952-b062-11e3-899c-71a5229114b4"
+  },
+  {
+    "created_at": "Thu Mar 20 19:01:16 +0000 2014",
+    "id": 446723162898964480,
+    "id_str": "446723162898964480",
+    "text": "What price would you pay for #love? AS GOOD AS GOLD by @heidikneale http://t.co/Ld90IKRazF #kindle #ebook #faerie #romance #novella",
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 38426689,
+      "id_str": "38426689",
+      "name": "The Wild Rose Press",
+      "screen_name": "WildRosePress",
+      "location": "New York",
+      "url": "http://www.thewildrosepress.com",
+      "description": "Romance Publisher",
+      "protected": false,
+      "followers_count": 1606,
+      "friends_count": 495,
+      "listed_count": 114,
+      "created_at": "Thu May 07 13:10:17 +0000 2009",
+      "favourites_count": 2,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8332,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F9B8D6",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2151517968/new_square_logo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2151517968/new_square_logo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/38426689/1355372177",
+      "profile_link_color": "B40062",
+      "profile_sidebar_border_color": "F1E0EC",
+      "profile_sidebar_fill_color": "DAC8D4",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "love",
+          "indices": [
+            29,
+            34
+          ]
+        },
+        {
+          "text": "kindle",
+          "indices": [
+            91,
+            98
+          ]
+        },
+        {
+          "text": "ebook",
+          "indices": [
+            99,
+            105
+          ]
+        },
+        {
+          "text": "faerie",
+          "indices": [
+            106,
+            113
+          ]
+        },
+        {
+          "text": "romance",
+          "indices": [
+            114,
+            122
+          ]
+        },
+        {
+          "text": "novella",
+          "indices": [
+            123,
+            131
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Ld90IKRazF",
+          "expanded_url": "http://buff.ly/1eQtNjH",
+          "display_url": "buff.ly/1eQtNjH",
+          "indices": [
+            68,
+            90
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "HeidiKneale",
+          "name": "Heidi Kneale",
+          "id": 2324869519,
+          "id_str": "2324869519",
+          "indices": [
+            55,
+            67
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446723162898964480",
+    "entity_id": "446723162898964480",
+    "score": "446723162898964480",
+    "queued_at": 1395342082633,
+    "timeline_id": "0742893a-b062-11e3-92be-50cdc3c74f25"
+  },
+  {
+    "created_at": "Thu Mar 20 19:00:08 +0000 2014",
+    "id": 446722879065833472,
+    "id_str": "446722879065833472",
+    "text": "Wattpad fans rave: \"It was such an awesome read. I really love Devin and everything about this book :) \" http://t.co/t687v2JHWp #kindle",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 105331981,
+      "id_str": "105331981",
+      "name": "Brian Henry",
+      "screen_name": "brianhenry63",
+      "location": "Pasadena, CA",
+      "url": "http://www.wattpad.com/user/abstractplane",
+      "description": "Writer of humorous fiction, sci-fi, fantasy. My 'awesome' and 'amazing' novel I Was a Teenage Ghost Hunter is available on Amazon: http://amzn.to/1gwPt3U",
+      "protected": false,
+      "followers_count": 6397,
+      "friends_count": 6548,
+      "listed_count": 152,
+      "created_at": "Sat Jan 16 01:52:13 +0000 2010",
+      "favourites_count": 13,
+      "utc_offset": -28800,
+      "time_zone": "Alaska",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12942,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "4255CE",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446073384292470784/wbz1jphN.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446073384292470784/wbz1jphN.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/636852117/Brian_Henry3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/636852117/Brian_Henry3_normal.jpg",
+      "profile_link_color": "193B63",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "5BAEA1",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kindle",
+          "indices": [
+            128,
+            135
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/t687v2JHWp",
+          "expanded_url": "http://amzn.to/1gwPt3U",
+          "display_url": "amzn.to/1gwPt3U",
+          "indices": [
+            105,
+            127
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446722879065833472",
+    "entity_id": "446722879065833472",
+    "score": "446722879065833472",
+    "queued_at": 1395342012067,
+    "timeline_id": "dd331aba-b061-11e3-9b73-91afdf42fd99"
+  },
+  {
+    "created_at": "Thu Mar 20 18:56:49 +0000 2014",
+    "id": 446722044739084288,
+    "id_str": "446722044739084288",
+    "text": "We love free kindle downloads! Click here to learn more about this book and get your free kindle edition TODAY ONLY. http://t.co/AR2Eqq9C7Y",
+    "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 257236803,
+      "id_str": "257236803",
+      "name": "Covenant Grace ",
+      "screen_name": "CovGrace",
+      "location": "Winchester, CA",
+      "url": "http://www.covgrace.org/",
+      "description": "Through the gospel, building a family of families, one person at a time. Sunday services at 9am & 11am. Visitors welcome! Services offered for hearing impaired.",
+      "protected": false,
+      "followers_count": 89,
+      "friends_count": 64,
+      "listed_count": 3,
+      "created_at": "Fri Feb 25 00:51:54 +0000 2011",
+      "favourites_count": 0,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 827,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/785618856/1dedd1a19742ddc4c10c01dc57c984bb.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/785618856/1dedd1a19742ddc4c10c01dc57c984bb.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3226052209/6e2438bae68cbab840e5b5adc1cbaedc_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3226052209/6e2438bae68cbab840e5b5adc1cbaedc_normal.jpeg",
+      "profile_link_color": "2477AE",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/AR2Eqq9C7Y",
+          "expanded_url": "http://fb.me/21nj8U9Of",
+          "display_url": "fb.me/21nj8U9Of",
+          "indices": [
+            117,
+            139
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446722044739084288",
+    "entity_id": "446722044739084288",
+    "score": "446722044739084288",
+    "queued_at": 1395341815520,
+    "timeline_id": "680c6a34-b061-11e3-8d32-4e6ddff0d8fd"
+  },
+  {
+    "created_at": "Thu Mar 20 18:45:10 +0000 2014",
+    "id": 446719112958738432,
+    "id_str": "446719112958738432",
+    "text": "#free on #kindle What would you risk for love? #scifiromance Reckless Rescue http://t.co/uhEZaChIkW #ebook @RinelleGrey",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 625502898,
+      "id_str": "625502898",
+      "name": "Rinelle Grey",
+      "screen_name": "RinelleGrey",
+      "location": "Brisbane, Australia",
+      "url": "http://www.rinellegrey.com",
+      "description": "Different worlds, different rules, different lives, but love remains the same.\nAuthor of A Barren Planet Romance Series #scifiromance\nhttp://t.co/fFNcBqGnpS",
+      "protected": false,
+      "followers_count": 1112,
+      "friends_count": 1290,
+      "listed_count": 39,
+      "created_at": "Tue Jul 03 09:44:13 +0000 2012",
+      "favourites_count": 65,
+      "utc_offset": 36000,
+      "time_zone": "Brisbane",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2695,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "B2DFDA",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/615734086/ntm8l181u46bchuqa9y6.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/615734086/ntm8l181u46bchuqa9y6.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3277089998/18e4c82e50fa0802d561661fde7491f9_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3277089998/18e4c82e50fa0802d561661fde7491f9_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/625502898/1361254637",
+      "profile_link_color": "66CCCC",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "free",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "kindle",
+          "indices": [
+            9,
+            16
+          ]
+        },
+        {
+          "text": "scifiromance",
+          "indices": [
+            47,
+            60
+          ]
+        },
+        {
+          "text": "ebook",
+          "indices": [
+            100,
+            106
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/uhEZaChIkW",
+          "expanded_url": "http://ow.ly/uMr40",
+          "display_url": "ow.ly/uMr40",
+          "indices": [
+            77,
+            99
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "RinelleGrey",
+          "name": "Rinelle Grey",
+          "id": 625502898,
+          "id_str": "625502898",
+          "indices": [
+            107,
+            119
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446719112958738432",
+    "entity_id": "446719112958738432",
+    "score": "446719112958738432",
+    "queued_at": 1395341115703,
+    "timeline_id": "c6ecbefc-b05f-11e3-892d-de85459d2062"
+  },
+  {
+    "created_at": "Thu Mar 20 18:41:32 +0000 2014",
+    "id": 446718198918823936,
+    "id_str": "446718198918823936",
+    "text": "Lmao I love when Samsung grills everyone in their commercials - New Samsung Ad Burns the Kindle, Surface and iPad http://t.co/3iH4XhsspE",
+    "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 156197764,
+      "id_str": "156197764",
+      "name": "Saad Riaz",
+      "screen_name": "rSaad1784",
+      "location": "",
+      "url": null,
+      "description": null,
+      "protected": false,
+      "followers_count": 117,
+      "friends_count": 122,
+      "listed_count": 4,
+      "created_at": "Wed Jun 16 08:00:46 +0000 2010",
+      "favourites_count": 387,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5076,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "CCCCCC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/112869254/x1e4ccd501724c37ce2659603377008d.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/112869254/x1e4ccd501724c37ce2659603377008d.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/435702438377422848/bS9u7gHL_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/435702438377422848/bS9u7gHL_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/156197764/1393559835",
+      "profile_link_color": "666666",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "333333",
+      "profile_text_color": "999999",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/3iH4XhsspE",
+          "expanded_url": "http://mashable.com/2014/03/19/samsung-galaxy-pro-ad/#:eyJzIjoidCIsImkiOiJfMTI2OXdubWN4c2xvMmoyeHJnaWpuMmJfIn0",
+          "display_url": "mashable.com/2014/03/19/sam…",
+          "indices": [
+            114,
+            136
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446718198918823936",
+    "entity_id": "446718198918823936",
+    "score": "446718198918823936",
+    "queued_at": 1395340895602,
+    "timeline_id": "43bc03c6-b05f-11e3-851a-3bae1f55ffb0"
+  },
+  {
+    "created_at": "Thu Mar 20 18:40:25 +0000 2014",
+    "id": 446717914314719232,
+    "id_str": "446717914314719232",
+    "text": "During the Civil War Linda finds strength to endure with the Banner of Love. http://t.co/9eF0Oi4vVe  #Kindle",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 394498751,
+      "id_str": "394498751",
+      "name": "Grace & Faith",
+      "screen_name": "GraceAndFaith4U",
+      "location": "",
+      "url": "http://graceandfaith4u.com/",
+      "description": "Bringing you God's love, peace, hope, & joy every day!  Inspiration for the journey with Christian authors, ebooks, books, and blogs.",
+      "protected": false,
+      "followers_count": 1603,
+      "friends_count": 375,
+      "listed_count": 45,
+      "created_at": "Thu Oct 20 05:10:58 +0000 2011",
+      "favourites_count": 0,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 70557,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0F0A02",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/357072723/x6592adce0027f346f1f3ed7698771bf.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/357072723/x6592adce0027f346f1f3ed7698771bf.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1597429362/Cross_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1597429362/Cross_normal.jpg",
+      "profile_link_color": "A48B0F",
+      "profile_sidebar_border_color": "A5ADBB",
+      "profile_sidebar_fill_color": "171106",
+      "profile_text_color": "AA9073",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Kindle",
+          "indices": [
+            101,
+            108
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/9eF0Oi4vVe",
+          "expanded_url": "http://ow.ly/uN0St",
+          "display_url": "ow.ly/uN0St",
+          "indices": [
+            77,
+            99
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446717914314719232",
+    "entity_id": "446717914314719232",
+    "score": "446717914314719232",
+    "queued_at": 1395340829161,
+    "timeline_id": "1c21f35c-b05f-11e3-8f62-de8d760ce3e8"
+  },
+  {
+    "created_at": "Thu Mar 20 18:35:57 +0000 2014",
+    "id": 446716793751896065,
+    "id_str": "446716793751896065",
+    "text": "I love my kindle fire -☺️💙",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 438849517,
+      "id_str": "438849517",
+      "name": "laydιι",
+      "screen_name": "Kismet_Amore",
+      "location": "Nomad",
+      "url": null,
+      "description": "† ιg: lovelιjaн_",
+      "protected": false,
+      "followers_count": 367,
+      "friends_count": 320,
+      "listed_count": 1,
+      "created_at": "Sat Dec 17 02:57:05 +0000 2011",
+      "favourites_count": 1544,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8420,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "CC0439",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/640129893/vhl9ook0oywwmm8i4h9r.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/640129893/vhl9ook0oywwmm8i4h9r.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/443961134459404288/UcI75pjV_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/443961134459404288/UcI75pjV_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/438849517/1394571850",
+      "profile_link_color": "080808",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "FFFFFF",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446716793751896065",
+    "entity_id": "446716793751896065",
+    "score": "446716793751896065",
+    "queued_at": 1395340562354,
+    "timeline_id": "7d1a5ccc-b05e-11e3-897f-f90ee524b91a"
+  },
+  {
+    "created_at": "Thu Mar 20 18:35:36 +0000 2014",
+    "id": 446716705445007360,
+    "id_str": "446716705445007360",
+    "text": "Never underestimate the power of love, patience and forgiveness! DÉJÀ VU BRIDE http://t.co/hcoxR7edOT  #lovestory #romance #Kindle",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 42105086,
+      "id_str": "42105086",
+      "name": "Debra Ullrick",
+      "screen_name": "DebraUllrick",
+      "location": "Colorado",
+      "url": "http://www.debraullrick.com",
+      "description": "I'm a Christian romance author, married to a wonderful man for over 39 years, love my daughter, cats, monster trucks, hot rods and most of all Jesus.",
+      "protected": false,
+      "followers_count": 1010,
+      "friends_count": 621,
+      "listed_count": 35,
+      "created_at": "Sat May 23 21:54:01 +0000 2009",
+      "favourites_count": 2,
+      "utc_offset": -21600,
+      "time_zone": "Mountain Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 36412,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000180769063/edGeYD0M.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000180769063/edGeYD0M.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/444207107412197376/RqLdiA-y_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/444207107412197376/RqLdiA-y_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/42105086/1391454738",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "lovestory",
+          "indices": [
+            103,
+            113
+          ]
+        },
+        {
+          "text": "romance",
+          "indices": [
+            114,
+            122
+          ]
+        },
+        {
+          "text": "Kindle",
+          "indices": [
+            123,
+            130
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/hcoxR7edOT",
+          "expanded_url": "http://amzn.to/1cHWH4F",
+          "display_url": "amzn.to/1cHWH4F",
+          "indices": [
+            79,
+            101
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446716705445007360",
+    "entity_id": "446716705445007360",
+    "score": "446716705445007360",
+    "queued_at": 1395340540641,
+    "timeline_id": "70293ba0-b05e-11e3-935f-a84b23833815"
+  },
+  {
+    "created_at": "Thu Mar 20 18:33:08 +0000 2014",
+    "id": 446716084197277696,
+    "id_str": "446716084197277696",
+    "text": "Love a page turner with twists? #mystery #kindle #ASMSG THE GORDONSTON LADIES DOG WALKING CLUB http://t.co/6xvpdvvsRM by @DuncanWhitehead",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 636318753,
+      "id_str": "636318753",
+      "name": "Anna Othitis  ",
+      "screen_name": "aothitis",
+      "location": "Wanaque-NJ-USA",
+      "url": "http://annaothitis.tateauthor.com/",
+      "description": "Author of #Childrens Books -My First Travel Book with Captain Frankie & #Healthy Cook Books - NO DM's-My interests-health & less fortunate in our world  #ASMSG",
+      "protected": false,
+      "followers_count": 3838,
+      "friends_count": 4216,
+      "listed_count": 91,
+      "created_at": "Sun Jul 15 15:03:54 +0000 2012",
+      "favourites_count": 203,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 32059,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/446337583954415616/FG6kUvd-_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/446337583954415616/FG6kUvd-_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/636318753/1395250100",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "mystery",
+          "indices": [
+            32,
+            40
+          ]
+        },
+        {
+          "text": "kindle",
+          "indices": [
+            41,
+            48
+          ]
+        },
+        {
+          "text": "ASMSG",
+          "indices": [
+            49,
+            55
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/6xvpdvvsRM",
+          "expanded_url": "http://bit.ly/1fED43r",
+          "display_url": "bit.ly/1fED43r",
+          "indices": [
+            95,
+            117
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "DuncanWhitehead",
+          "name": "Duncan Whitehead",
+          "id": 213320007,
+          "id_str": "213320007",
+          "indices": [
+            121,
+            137
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446716084197277696",
+    "entity_id": "446716084197277696",
+    "score": "446716084197277696",
+    "queued_at": 1395340392588,
+    "timeline_id": "17ea2c6a-b05e-11e3-9190-e84a8702247e"
+  },
+  {
+    "created_at": "Thu Mar 20 18:31:06 +0000 2014",
+    "id": 446715571284230144,
+    "id_str": "446715571284230144",
+    "text": "\"Love, desire, hunger for power are perfectly set off against the virtual, futuristic, supernatural\" http://t.co/RIwJ8hqGcN #kindle #scifi",
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1709516838,
+      "id_str": "1709516838",
+      "name": "Luca Rossi",
+      "screen_name": "AuthorLRossi",
+      "location": "",
+      "url": "http://www.lucarossi369.com",
+      "description": "This is the official Twitter page for author Luca Rossi. GALACTIC ENERGIES is the new #scifi #fantasy anthology http://amzn.to/1c2gBJE",
+      "protected": false,
+      "followers_count": 22222,
+      "friends_count": 23441,
+      "listed_count": 246,
+      "created_at": "Thu Aug 29 08:56:02 +0000 2013",
+      "favourites_count": 4437,
+      "utc_offset": 3600,
+      "time_zone": "Rome",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 24137,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000105935073/3ce02cc1097773f36c9d5021fb9e080b.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000105935073/3ce02cc1097773f36c9d5021fb9e080b.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000734517304/c5e610f93479479c3f7cdba69b6e5dbc_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000734517304/c5e610f93479479c3f7cdba69b6e5dbc_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1709516838/1384344942",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kindle",
+          "indices": [
+            124,
+            131
+          ]
+        },
+        {
+          "text": "scifi",
+          "indices": [
+            132,
+            138
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/RIwJ8hqGcN",
+          "expanded_url": "http://bit.ly/GalacEnergies",
+          "display_url": "bit.ly/GalacEnergies",
+          "indices": [
+            101,
+            123
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446715571284230144",
+    "entity_id": "446715571284230144",
+    "score": "446715571284230144",
+    "queued_at": 1395340270538,
+    "timeline_id": "cf2acae8-b05d-11e3-8994-f96c7364b535"
+  },
+  {
+    "created_at": "Thu Mar 20 18:29:01 +0000 2014",
+    "id": 446715046786502656,
+    "id_str": "446715046786502656",
+    "text": "‘I love the gossipy tone of the book’ http://t.co/nl5pPi686s #kindle #eBooks Mafia Hairdresser",
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 58554951,
+      "id_str": "58554951",
+      "name": "Mafia Hairdresser",
+      "screen_name": "mafiahairdreser",
+      "location": "Chicago and Worldwide",
+      "url": "http://mafiahairdresser.com/",
+      "description": "Jon-David~Author~Social Media Consultant~Salons/Spas Digital+Email+Marketing~Pro-Beauty Brands~Host of @SalonSpaChat~Speaker~Trainer~Manuals/Curriculum",
+      "protected": false,
+      "followers_count": 6215,
+      "friends_count": 4631,
+      "listed_count": 334,
+      "created_at": "Mon Jul 20 18:52:18 +0000 2009",
+      "favourites_count": 861,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 35716,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "A1E69A",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/804301704/b22b298da538ee1e786c44621a9e1a66.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/804301704/b22b298da538ee1e786c44621a9e1a66.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3782996143/d41425bb4f413d756fca3a740b46ca5b_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3782996143/d41425bb4f413d756fca3a740b46ca5b_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/58554951/1377825569",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kindle",
+          "indices": [
+            61,
+            68
+          ]
+        },
+        {
+          "text": "eBooks",
+          "indices": [
+            69,
+            76
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/nl5pPi686s",
+          "expanded_url": "http://buff.ly/1eot7B2",
+          "display_url": "buff.ly/1eot7B2",
+          "indices": [
+            38,
+            60
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446715046786502656",
+    "entity_id": "446715046786502656",
+    "score": "446715046786502656",
+    "queued_at": 1395340145405,
+    "timeline_id": "84950a0c-b05d-11e3-89c0-73713d438997"
+  },
+  {
+    "created_at": "Thu Mar 20 18:25:12 +0000 2014",
+    "id": 446714086207012864,
+    "id_str": "446714086207012864",
+    "text": "Can LOVE be pure and twisted by OBSESSION at the same time? #kindle http://t.co/BOcYz2jVf4 #asmsg #ian1 #jt4a #4ftm http://t.co/rXpWDcwMkU",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 830705222,
+      "id_str": "830705222",
+      "name": "Luca",
+      "screen_name": "LucaRossi369",
+      "location": "",
+      "url": "http://www.lucarossi369.com/",
+      "description": "Author of Amazon #scifi bestseller GALACTIC ENERGIES - http://bit.ly/GalacEnergies",
+      "protected": false,
+      "followers_count": 15013,
+      "friends_count": 16086,
+      "listed_count": 151,
+      "created_at": "Tue Sep 18 09:43:26 +0000 2012",
+      "favourites_count": 1106,
+      "utc_offset": 3600,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 26161,
+      "lang": "it",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/676395246/fef4762534cd0a3889d73c81f391066c.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/676395246/fef4762534cd0a3889d73c81f391066c.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000411134510/c2c89f856a1c2d4acb7bf307417e048e_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000411134510/c2c89f856a1c2d4acb7bf307417e048e_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/830705222/1384344560",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 14,
+    "favorite_count": 4,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kindle",
+          "indices": [
+            60,
+            67
+          ]
+        },
+        {
+          "text": "asmsg",
+          "indices": [
+            91,
+            97
+          ]
+        },
+        {
+          "text": "ian1",
+          "indices": [
+            98,
+            103
+          ]
+        },
+        {
+          "text": "jt4a",
+          "indices": [
+            104,
+            109
+          ]
+        },
+        {
+          "text": "4ftm",
+          "indices": [
+            110,
+            115
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/BOcYz2jVf4",
+          "expanded_url": "http://bit.ly/GalacEnergies",
+          "display_url": "bit.ly/GalacEnergies",
+          "indices": [
+            68,
+            90
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "media": [
+        {
+          "id": 441256564490379265,
+          "id_str": "441256564490379265",
+          "indices": [
+            116,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/Bh-oge1CIAEGUbM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Bh-oge1CIAEGUbM.jpg",
+          "url": "http://t.co/rXpWDcwMkU",
+          "display_url": "pic.twitter.com/rXpWDcwMkU",
+          "expanded_url": "http://twitter.com/LucaRossi369/status/441256564477796352/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 226,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 700,
+              "h": 466,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 399,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 441256564477796352,
+          "source_status_id_str": "441256564477796352"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446714086207012864",
+    "entity_id": "446714086207012864",
+    "score": "446714086207012864",
+    "queued_at": 1395339919692,
+    "timeline_id": "fe0bf3b0-b05c-11e3-9a23-ea07f4937fe4"
+  },
+  {
+    "created_at": "Thu Mar 20 18:12:31 +0000 2014",
+    "id": 446710892928196608,
+    "id_str": "446710892928196608",
+    "text": "OMG that kindle commercial is my dream. I would LOVE to go through @TNT_CraigSager's blazer closet.",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 205243850,
+      "id_str": "205243850",
+      "name": "Dorian Craft",
+      "screen_name": "doriancraft",
+      "location": "Hagerstown, MD",
+      "url": "http://doriancraftisnotimpressed.wordpress.com/",
+      "description": "Sports Reporter/Anchor for WHAG @Your4State. Former VT athlete. I love UK basketball and yes, I’m still bitter about Duke-Kentucky ’92.",
+      "protected": false,
+      "followers_count": 495,
+      "friends_count": 556,
+      "listed_count": 7,
+      "created_at": "Wed Oct 20 12:51:32 +0000 2010",
+      "favourites_count": 142,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4786,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "07090B",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/367344202/xc4941ab229eeacf9791768effff4a5f.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/367344202/xc4941ab229eeacf9791768effff4a5f.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3451628762/5dbfc0b2b2866cdde0f016e3934be853_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3451628762/5dbfc0b2b2866cdde0f016e3934be853_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/205243850/1366467594",
+      "profile_link_color": "C34242",
+      "profile_sidebar_border_color": "BFBFBF",
+      "profile_sidebar_fill_color": "C9C9C9",
+      "profile_text_color": "1C1F23",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "TNT_CraigSager",
+          "name": "Craig Sager",
+          "id": 29308565,
+          "id_str": "29308565",
+          "indices": [
+            67,
+            82
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446710892928196608",
+    "entity_id": "446710892928196608",
+    "score": "446710892928196608",
+    "queued_at": 1395339156917,
+    "timeline_id": "3765afae-b05b-11e3-9b17-94a292a39e3b"
+  },
+  {
+    "created_at": "Thu Mar 20 18:10:12 +0000 2014",
+    "id": 446710313170526208,
+    "id_str": "446710313170526208",
+    "text": "Love a page turner with twists? #mystery #kindle #ASMSG THE GORDONSTON LADIES DOG WALKING CLUB http://t.co/wSpEYq4lA0 by @DuncanWhitehead",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 988725697,
+      "id_str": "988725697",
+      "name": "Christoph Fischer",
+      "screen_name": "CFFBooks",
+      "location": "Bath, UK",
+      "url": "http://www.christophfischerbooks.com",
+      "description": "Writer of historical novels: Luck of the Weissensteienrs and Sebastian and The Black Eagle Inn. ASMSG member. Also addicted reader http://t.co/1lOdXmFtKa",
+      "protected": false,
+      "followers_count": 17723,
+      "friends_count": 17905,
+      "listed_count": 244,
+      "created_at": "Tue Dec 04 12:52:59 +0000 2012",
+      "favourites_count": 11225,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 41100,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0D0E0F",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/434022122956918784/Dezf0-ss.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/434022122956918784/Dezf0-ss.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3627320999/90eeade58bd0c5dda0a4d973b321e0dd_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3627320999/90eeade58bd0c5dda0a4d973b321e0dd_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/988725697/1392313977",
+      "profile_link_color": "677175",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "mystery",
+          "indices": [
+            32,
+            40
+          ]
+        },
+        {
+          "text": "kindle",
+          "indices": [
+            41,
+            48
+          ]
+        },
+        {
+          "text": "ASMSG",
+          "indices": [
+            49,
+            55
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/wSpEYq4lA0",
+          "expanded_url": "http://bit.ly/1fED43r",
+          "display_url": "bit.ly/1fED43r",
+          "indices": [
+            95,
+            117
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "DuncanWhitehead",
+          "name": "Duncan Whitehead",
+          "id": 213320007,
+          "id_str": "213320007",
+          "indices": [
+            121,
+            137
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446710313170526208",
+    "entity_id": "446710313170526208",
+    "score": "446710313170526208",
+    "queued_at": 1395339018633,
+    "timeline_id": "e4f9408c-b05a-11e3-9b35-edcf04330341"
+  },
+  {
+    "created_at": "Thu Mar 20 18:10:04 +0000 2014",
+    "id": 446710277849886724,
+    "id_str": "446710277849886724",
+    "text": "#FreeBook The Velvet Glove by Mary Williams Historical romance PlsRT http://t.co/ZEKbzWHj7p  #Love #ChickLit #Kindle #Deals #Offers",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1445900024,
+      "id_str": "1445900024",
+      "name": "Charlotte",
+      "screen_name": "CEndeavourPress",
+      "location": "London",
+      "url": "http://www.endeavourpress.com",
+      "description": "Publishing at @EndeavourPress. Current Photo: The Velvet Glove by Mary Williams.http://amzn.to/1cQIRlT",
+      "protected": false,
+      "followers_count": 695,
+      "friends_count": 1133,
+      "listed_count": 10,
+      "created_at": "Tue May 21 09:35:10 +0000 2013",
+      "favourites_count": 0,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9700,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/873747146/c1dc5e625ac1e0c1577422193224d5b3.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/873747146/c1dc5e625ac1e0c1577422193224d5b3.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/446230130822619136/XvrnvKCf_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/446230130822619136/XvrnvKCf_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FreeBook",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Love",
+          "indices": [
+            93,
+            98
+          ]
+        },
+        {
+          "text": "ChickLit",
+          "indices": [
+            99,
+            108
+          ]
+        },
+        {
+          "text": "Kindle",
+          "indices": [
+            109,
+            116
+          ]
+        },
+        {
+          "text": "Deals",
+          "indices": [
+            117,
+            123
+          ]
+        },
+        {
+          "text": "Offers",
+          "indices": [
+            124,
+            131
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ZEKbzWHj7p",
+          "expanded_url": "http://amzn.to/1cQIRlT",
+          "display_url": "amzn.to/1cQIRlT",
+          "indices": [
+            69,
+            91
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446710277849886724",
+    "entity_id": "446710277849886724",
+    "score": "446710277849886724",
+    "queued_at": 1395339008856,
+    "timeline_id": "df256118-b05a-11e3-908c-bfd40b8bc557"
+  },
+  {
+    "created_at": "Thu Mar 20 18:07:54 +0000 2014",
+    "id": 446709733446012928,
+    "id_str": "446709733446012928",
+    "text": "\"Will you love me even as I curse you to the dark?\" #Paranormal \"I will love you especially in the dark\" #Kindle http://t.co/uhd03Turqn",
+    "source": "<a href=\"http://www.Feed140.com\" rel=\"nofollow\">feed_140</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 340645197,
+      "id_str": "340645197",
+      "name": "greg parkerson",
+      "screen_name": "GregParkerson",
+      "location": "tennessee",
+      "url": null,
+      "description": "husband , father and TIDE FAN",
+      "protected": false,
+      "followers_count": 1804,
+      "friends_count": 1602,
+      "listed_count": 9,
+      "created_at": "Sat Jul 23 01:34:18 +0000 2011",
+      "favourites_count": 16,
+      "utc_offset": -18000,
+      "time_zone": "Central Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 88002,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FCEBB6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/712773983/3699d81a7858c6527b5f0bbe875acc30.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/712773983/3699d81a7858c6527b5f0bbe875acc30.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1456163031/greg_and_me_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1456163031/greg_and_me_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/340645197/1348794168",
+      "profile_link_color": "CE7834",
+      "profile_sidebar_border_color": "F0A830",
+      "profile_sidebar_fill_color": "78C0A8",
+      "profile_text_color": "5E412F",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Paranormal",
+          "indices": [
+            52,
+            63
+          ]
+        },
+        {
+          "text": "Kindle",
+          "indices": [
+            105,
+            112
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/uhd03Turqn",
+          "expanded_url": "http://viewBook.at/B0053482GW",
+          "display_url": "viewBook.at/B0053482GW",
+          "indices": [
+            113,
+            135
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446709733446012928",
+    "entity_id": "446709733446012928",
+    "score": "446709733446012928",
+    "queued_at": 1395338878556,
+    "timeline_id": "917b4ab8-b05a-11e3-95b0-f61627eaed7e"
+  },
+  {
+    "created_at": "Thu Mar 20 18:07:46 +0000 2014",
+    "id": 446709699283398656,
+    "id_str": "446709699283398656",
+    "text": "Vintage Romance! The TruLOVE Collection FORBIDDEN LOVE is $1.99 on #kindle #romance #tbt http://t.co/Iqmv1p91UR …",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 558029707,
+      "id_str": "558029707",
+      "name": "TruLOVE Stories",
+      "screen_name": "TruLOVEStories",
+      "location": "Hollywood",
+      "url": "http://www.trulovestories.com",
+      "description": "Romance novels! Publishing #contemporary, #paranormal and spicy #romance plus new collections of #vintage stories like F. Scott Fitzgerald's #Gatsby Girls!",
+      "protected": false,
+      "followers_count": 5965,
+      "friends_count": 2463,
+      "listed_count": 46,
+      "created_at": "Thu Apr 19 20:23:21 +0000 2012",
+      "favourites_count": 701,
+      "utc_offset": -25200,
+      "time_zone": "Arizona",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4161,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/857809656/776ff146f3f336c7cfd6cb591f3c5e7b.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/857809656/776ff146f3f336c7cfd6cb591f3c5e7b.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2179769970/TLS_SQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2179769970/TLS_SQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/558029707/1384817623",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kindle",
+          "indices": [
+            67,
+            74
+          ]
+        },
+        {
+          "text": "romance",
+          "indices": [
+            75,
+            83
+          ]
+        },
+        {
+          "text": "tbt",
+          "indices": [
+            84,
+            88
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Iqmv1p91UR",
+          "expanded_url": "http://www.amazon.com/Forbidden-Love-TruLove-Collection/dp/0985540494/ref=sr_1_1?s=books&ie=UTF8&qid=1395338254&sr=1-1&keywords=forbidden+love+trulove+collection",
+          "display_url": "amazon.com/Forbidden-Love…",
+          "indices": [
+            89,
+            111
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446709699283398656",
+    "entity_id": "446709699283398656",
+    "score": "446709699283398656",
+    "queued_at": 1395338871409,
+    "timeline_id": "8d38c0de-b05a-11e3-9729-46d3a3b56a20"
+  },
+  {
+    "created_at": "Thu Mar 20 18:06:52 +0000 2014",
+    "id": 446709472304439297,
+    "id_str": "446709472304439297",
+    "text": "Haha, I love this. Samsung’s latest Galaxy PRO tablet ad trashes the iPad, Surface and Kindle http://t.co/fEciqK85zb via @thenextweb",
+    "source": "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 15264483,
+      "id_str": "15264483",
+      "name": "Martin Male",
+      "screen_name": "EclecticBlogs",
+      "location": "Yellowknife, NT",
+      "url": "http://martin.eclecticblogs.ca",
+      "description": "http://sports.eclecticblogs.ca     \r\n\r\nI am a technology manager in education plus I like digital photography, sports and I am an avid tea and coffee drinker.",
+      "protected": false,
+      "followers_count": 845,
+      "friends_count": 837,
+      "listed_count": 21,
+      "created_at": "Sat Jun 28 17:21:16 +0000 2008",
+      "favourites_count": 4,
+      "utc_offset": -21600,
+      "time_zone": "Mountain Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 14708,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "709397",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5542819/Awesome_Boot_Lake_View_XSmall.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5542819/Awesome_Boot_Lake_View_XSmall.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1699421487/8f2986ae-45bc-48f4-83fc-41af3a86a590_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1699421487/8f2986ae-45bc-48f4-83fc-41af3a86a590_normal.png",
+      "profile_link_color": "FF3300",
+      "profile_sidebar_border_color": "86A4A6",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/fEciqK85zb",
+          "expanded_url": "http://tnw.to/g4ja4",
+          "display_url": "tnw.to/g4ja4",
+          "indices": [
+            94,
+            116
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TheNextWeb",
+          "name": "The Next Web",
+          "id": 10876852,
+          "id_str": "10876852",
+          "indices": [
+            121,
+            132
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446709472304439297",
+    "entity_id": "446709472304439297",
+    "score": "446709472304439297",
+    "queued_at": 1395338816136,
+    "timeline_id": "6c46b28c-b05a-11e3-9036-98500c8bf5dd"
+  },
+  {
+    "created_at": "Thu Mar 20 18:06:07 +0000 2014",
+    "id": 446709285553049600,
+    "id_str": "446709285553049600",
+    "text": "\"Through A Window\" - sci-short stories by Bee N. Love. Kindle. Five stories to make you think.  http://t.co/M8EsoB0KYN",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1414510111,
+      "id_str": "1414510111",
+      "name": "Bee Love",
+      "screen_name": "bee_writerbee",
+      "location": "Kansas",
+      "url": "http://writerbeeblog.wordpress.com",
+      "description": "Author of Sci-fi novel Pouring the Cup, blogger, and ... working from home.",
+      "protected": false,
+      "followers_count": 780,
+      "friends_count": 837,
+      "listed_count": 23,
+      "created_at": "Thu May 09 03:48:58 +0000 2013",
+      "favourites_count": 35,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2039,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/442470488451719168/swa-EeNP_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/442470488451719168/swa-EeNP_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414510111/1392667555",
+      "profile_link_color": "AA00B3",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/M8EsoB0KYN",
+          "expanded_url": "http://goo.gl/NQ0ONT",
+          "display_url": "goo.gl/NQ0ONT",
+          "indices": [
+            96,
+            118
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446709285553049600",
+    "entity_id": "446709285553049600",
+    "score": "446709285553049600",
+    "queued_at": 1395338775511,
+    "timeline_id": "540fc348-b05a-11e3-8c26-e11ee92e7a09"
+  },
+  {
+    "created_at": "Thu Mar 20 18:05:49 +0000 2014",
+    "id": 446709207002148864,
+    "id_str": "446709207002148864",
+    "text": "Be Still, My Love Tess Schafer-Medium Kindle Edition http://t.co/WhKSa6nFlx",
+    "source": "<a href=\"http://www.floodgap.com/software/ttytter/\" rel=\"nofollow\">TTYtter</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 8117042,
+      "id_str": "8117042",
+      "name": "Memes.org",
+      "screen_name": "memes",
+      "location": "Berlin",
+      "url": "http://memes.org",
+      "description": "Culture, science, politics, and religion through a memetic lens",
+      "protected": false,
+      "followers_count": 4911,
+      "friends_count": 1940,
+      "listed_count": 18,
+      "created_at": "Sat Aug 11 02:31:13 +0000 2007",
+      "favourites_count": 0,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 59133,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3560025/memesBackground.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3560025/memesBackground.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/63257201/memesLogo_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/63257201/memesLogo_normal.png",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/WhKSa6nFlx",
+          "expanded_url": "http://tinyurl.com/l3zctg9",
+          "display_url": "tinyurl.com/l3zctg9",
+          "indices": [
+            53,
+            75
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446709207002148864",
+    "entity_id": "446709207002148864",
+    "score": "446709207002148864",
+    "queued_at": 1395338751796,
+    "timeline_id": "45ed2af8-b05a-11e3-9131-7ef259313443"
+  },
+  {
+    "created_at": "Thu Mar 20 18:01:53 +0000 2014",
+    "id": 446708217322536960,
+    "id_str": "446708217322536960",
+    "text": "Her masquerade is exposed! FOR LOVE OF A PRINCESS by Lindsay Randall #Kindle #Romance #Historical #book http://t.co/kAyTeGX2P5",
+    "source": "<a href=\"http://tweetadder.com\" rel=\"nofollow\">TweetAdder v4</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1378171848,
+      "id_str": "1378171848",
+      "name": "eBookRomance",
+      "screen_name": "eBook_Romance",
+      "location": "",
+      "url": "http://www.ebookdiscovery.com",
+      "description": "New, Free & Bargain deals on Romance eBooks you'll love to read.  Contemporary. Historical. Western. Suspense. Paranormal.",
+      "protected": false,
+      "followers_count": 9751,
+      "friends_count": 10440,
+      "listed_count": 167,
+      "created_at": "Wed Apr 24 23:08:10 +0000 2013",
+      "favourites_count": 26,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 67628,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "27003B",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/851733220/c2d5f455a6bade4050f3590bc01e39fd.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/851733220/c2d5f455a6bade4050f3590bc01e39fd.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3573462410/b62941530de053f997cc6fd481d30a5e_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3573462410/b62941530de053f997cc6fd481d30a5e_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378171848/1366854720",
+      "profile_link_color": "A10625",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Kindle",
+          "indices": [
+            69,
+            76
+          ]
+        },
+        {
+          "text": "Romance",
+          "indices": [
+            77,
+            85
+          ]
+        },
+        {
+          "text": "Historical",
+          "indices": [
+            86,
+            97
+          ]
+        },
+        {
+          "text": "book",
+          "indices": [
+            98,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/kAyTeGX2P5",
+          "expanded_url": "http://amzn.to/1asM5VL",
+          "display_url": "amzn.to/1asM5VL",
+          "indices": [
+            104,
+            126
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446708217322536960",
+    "entity_id": "446708217322536960",
+    "score": "446708217322536960",
+    "queued_at": 1395338519871,
+    "timeline_id": "bbb02e1c-b059-11e3-87dd-083777c31ca8"
+  },
+  {
+    "created_at": "Thu Mar 20 17:59:18 +0000 2014",
+    "id": 446707566823759872,
+    "id_str": "446707566823759872",
+    "text": "April 4th Karma, my first ebook, will be available for kindle and nook.. hope ya'll ready for a gritty love story.. 15 days and counting!!",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1967617712,
+      "id_str": "1967617712",
+      "name": "Tiera Jones",
+      "screen_name": "TeJai_theauthor",
+      "location": "",
+      "url": "https://www.twitter.com/MzLibra_Scales",
+      "description": "Author/Poet/ Word Specialist",
+      "protected": false,
+      "followers_count": 33,
+      "friends_count": 128,
+      "listed_count": 1,
+      "created_at": "Thu Oct 17 21:22:43 +0000 2013",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "170B03",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000776315632/288939d4b0982d9cd76a354995f3abeb_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000776315632/288939d4b0982d9cd76a354995f3abeb_normal.jpeg",
+      "profile_link_color": "FAF8F0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446707566823759872",
+    "entity_id": "446707566823759872",
+    "score": "446707566823759872",
+    "queued_at": 1395338363455,
+    "timeline_id": "5e751d8e-b059-11e3-82f0-3cc27875b33b"
+  },
+  {
+    "created_at": "Thu Mar 20 17:59:04 +0000 2014",
+    "id": 446707509835726848,
+    "id_str": "446707509835726848",
+    "text": "The TruLOVE Collection FORBIDDEN LOVE is $1.99 on #kindle #romance http://t.co/Iqmv1p91UR",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 558029707,
+      "id_str": "558029707",
+      "name": "TruLOVE Stories",
+      "screen_name": "TruLOVEStories",
+      "location": "Hollywood",
+      "url": "http://www.trulovestories.com",
+      "description": "Romance novels! Publishing #contemporary, #paranormal and spicy #romance plus new collections of #vintage stories like F. Scott Fitzgerald's #Gatsby Girls!",
+      "protected": false,
+      "followers_count": 5965,
+      "friends_count": 2463,
+      "listed_count": 46,
+      "created_at": "Thu Apr 19 20:23:21 +0000 2012",
+      "favourites_count": 701,
+      "utc_offset": -25200,
+      "time_zone": "Arizona",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4160,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/857809656/776ff146f3f336c7cfd6cb591f3c5e7b.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/857809656/776ff146f3f336c7cfd6cb591f3c5e7b.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2179769970/TLS_SQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2179769970/TLS_SQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/558029707/1384817623",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kindle",
+          "indices": [
+            50,
+            57
+          ]
+        },
+        {
+          "text": "romance",
+          "indices": [
+            58,
+            66
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Iqmv1p91UR",
+          "expanded_url": "http://www.amazon.com/Forbidden-Love-TruLove-Collection/dp/0985540494/ref=sr_1_1?s=books&ie=UTF8&qid=1395338254&sr=1-1&keywords=forbidden+love+trulove+collection",
+          "display_url": "amazon.com/Forbidden-Love…",
+          "indices": [
+            67,
+            89
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446707509835726848",
+    "entity_id": "446707509835726848",
+    "score": "446707509835726848",
+    "queued_at": 1395338348321,
+    "timeline_id": "556fdac6-b059-11e3-95bf-05e5da820d9a"
+  },
+  {
+    "created_at": "Thu Mar 20 17:59:04 +0000 2014",
+    "id": 446707509797986305,
+    "id_str": "446707509797986305",
+    "text": "The TruLOVE Collection FORBIDDEN LOVE is $1.99 on #kindle #romance http://t.co/dAtdG8vaXJ",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 89266117,
+      "id_str": "89266117",
+      "name": "True Romance",
+      "screen_name": "TrueRoMag",
+      "location": "United States",
+      "url": "http://trulovestories.com/",
+      "description": "True Romance magazine has found a home at http://www.trulovestories.com!",
+      "protected": false,
+      "followers_count": 586,
+      "friends_count": 170,
+      "listed_count": 1,
+      "created_at": "Wed Nov 11 19:51:37 +0000 2009",
+      "favourites_count": 1,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 822,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/602962758/vukxc0kkolq8movbgpnj.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/602962758/vukxc0kkolq8movbgpnj.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2392593541/kn62h3hlxztiby6ktptj_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2392593541/kn62h3hlxztiby6ktptj_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kindle",
+          "indices": [
+            50,
+            57
+          ]
+        },
+        {
+          "text": "romance",
+          "indices": [
+            58,
+            66
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/dAtdG8vaXJ",
+          "expanded_url": "http://www.amazon.com/Forbidden-Love-TruLove-Collection/dp/0985540494/ref=sr_1_1?s=books&ie=UTF8&qid=1395338254&sr=1-1&keywords=forbidden+love+trulove+collection",
+          "display_url": "amazon.com/Forbidden-Love…",
+          "indices": [
+            67,
+            89
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446707509797986305",
+    "entity_id": "446707509797986305",
+    "score": "446707509797986305",
+    "queued_at": 1395338348217,
+    "timeline_id": "555ffa3e-b059-11e3-8e64-fa00f11b7cfc"
+  },
+  {
+    "created_at": "Thu Mar 20 17:59:04 +0000 2014",
+    "id": 446707509827358720,
+    "id_str": "446707509827358720",
+    "text": "The TruLOVE Collection FORBIDDEN LOVE is $1.99 on #kindle #romance http://t.co/K6UPAly2CL",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 39329127,
+      "id_str": "39329127",
+      "name": "Broad Think",
+      "screen_name": "broadthink",
+      "location": "Sherman Oaks, CA",
+      "url": "http://www.broad-think.com",
+      "description": "Building Better Brands",
+      "protected": false,
+      "followers_count": 724,
+      "friends_count": 29,
+      "listed_count": 0,
+      "created_at": "Mon May 11 20:07:39 +0000 2009",
+      "favourites_count": 2,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 288,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C3D9A0",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/13983446/logo.gif",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/13983446/logo.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/223469045/face_normal.gif",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/223469045/face_normal.gif",
+      "profile_link_color": "285866",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kindle",
+          "indices": [
+            50,
+            57
+          ]
+        },
+        {
+          "text": "romance",
+          "indices": [
+            58,
+            66
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/K6UPAly2CL",
+          "expanded_url": "http://www.amazon.com/Forbidden-Love-TruLove-Collection/dp/0985540494/ref=sr_1_1?s=books&ie=UTF8&qid=1395338254&sr=1-1&keywords=forbidden+love+trulove+collection",
+          "display_url": "amazon.com/Forbidden-Love…",
+          "indices": [
+            67,
+            89
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446707509827358720",
+    "entity_id": "446707509827358720",
+    "score": "446707509827358720",
+    "queued_at": 1395338347817,
+    "timeline_id": "5522dab4-b059-11e3-84cd-fd123ff7fbb1"
+  },
+  {
+    "created_at": "Thu Mar 20 17:40:18 +0000 2014",
+    "id": 446702786982715392,
+    "id_str": "446702786982715392",
+    "text": "She swears she’ll never love again @RinelleGrey's #scifiromance Reckless Rescue http://t.co/MwbzVw6mWs #free on #kindle #ebook",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 625502898,
+      "id_str": "625502898",
+      "name": "Rinelle Grey",
+      "screen_name": "RinelleGrey",
+      "location": "Brisbane, Australia",
+      "url": "http://www.rinellegrey.com",
+      "description": "Different worlds, different rules, different lives, but love remains the same.\nAuthor of A Barren Planet Romance Series #scifiromance\nhttp://t.co/fFNcBqGnpS",
+      "protected": false,
+      "followers_count": 1112,
+      "friends_count": 1290,
+      "listed_count": 39,
+      "created_at": "Tue Jul 03 09:44:13 +0000 2012",
+      "favourites_count": 65,
+      "utc_offset": 36000,
+      "time_zone": "Brisbane",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2694,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "B2DFDA",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/615734086/ntm8l181u46bchuqa9y6.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/615734086/ntm8l181u46bchuqa9y6.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3277089998/18e4c82e50fa0802d561661fde7491f9_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3277089998/18e4c82e50fa0802d561661fde7491f9_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/625502898/1361254637",
+      "profile_link_color": "66CCCC",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "scifiromance",
+          "indices": [
+            50,
+            63
+          ]
+        },
+        {
+          "text": "free",
+          "indices": [
+            103,
+            108
+          ]
+        },
+        {
+          "text": "kindle",
+          "indices": [
+            112,
+            119
+          ]
+        },
+        {
+          "text": "ebook",
+          "indices": [
+            120,
+            126
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/MwbzVw6mWs",
+          "expanded_url": "http://ow.ly/uMqF4",
+          "display_url": "ow.ly/uMqF4",
+          "indices": [
+            80,
+            102
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "RinelleGrey",
+          "name": "Rinelle Grey",
+          "id": 625502898,
+          "id_str": "625502898",
+          "indices": [
+            35,
+            47
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446702786982715392",
+    "entity_id": "446702786982715392",
+    "score": "446702786982715392",
+    "queued_at": 1395337222084,
+    "timeline_id": "b625a632-b056-11e3-80ec-37849f65821d"
+  },
+  {
+    "created_at": "Thu Mar 20 17:36:02 +0000 2014",
+    "id": 446701712477130752,
+    "id_str": "446701712477130752",
+    "text": "I love having tons of books on Kindle, but there's something SO beautiful about real books! I need a library room like Belle #booknerdigans",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 427833919,
+      "id_str": "427833919",
+      "name": "Lindsay Parks",
+      "screen_name": "lindzyjoy",
+      "location": "",
+      "url": null,
+      "description": null,
+      "protected": false,
+      "followers_count": 59,
+      "friends_count": 186,
+      "listed_count": 1,
+      "created_at": "Sun Dec 04 01:22:04 +0000 2011",
+      "favourites_count": 549,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 445,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FF6699",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/737570758/50030fc5b86b2c46accfaf1f570feaf6.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/737570758/50030fc5b86b2c46accfaf1f570feaf6.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/442530091201859585/acXRFlvM_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/442530091201859585/acXRFlvM_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/427833919/1394342873",
+      "profile_link_color": "B40B43",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "booknerdigans",
+          "indices": [
+            125,
+            139
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446701712477130752",
+    "entity_id": "446701712477130752",
+    "score": "446701712477130752",
+    "queued_at": 1395336964850,
+    "timeline_id": "1cd2eeb8-b056-11e3-98d7-3f60a1637e93"
+  },
+  {
+    "created_at": "Thu Mar 20 17:35:08 +0000 2014",
+    "id": 446701487365054464,
+    "id_str": "446701487365054464",
+    "text": "Love Science Fiction? Grab this #Kindle freebie now!\n\nEvery night after Ember Pierce falls asleep, she disappears.\n http://t.co/HPzuRdbgN7",
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1322824999,
+      "id_str": "1322824999",
+      "name": "BookFreebies",
+      "screen_name": "BookFreebies",
+      "location": "",
+      "url": "http://www.BookFreebies.com",
+      "description": "Love free eBooks? Let us find them for you. Follow us to get daily links to free eBooks. Authors - submit your book today. Tweet us and we will retweet you.",
+      "protected": false,
+      "followers_count": 476,
+      "friends_count": 695,
+      "listed_count": 7,
+      "created_at": "Tue Apr 02 16:26:39 +0000 2013",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1424,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3499270617/00e21e094ba77e8961082ae312b0e7d3_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3499270617/00e21e094ba77e8961082ae312b0e7d3_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Kindle",
+          "indices": [
+            32,
+            39
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/HPzuRdbgN7",
+          "expanded_url": "http://bookfreebies.com/vanishing-girl/",
+          "display_url": "bookfreebies.com/vanishing-girl/",
+          "indices": [
+            116,
+            138
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446701487365054464",
+    "entity_id": "446701487365054464",
+    "score": "446701487365054464",
+    "queued_at": 1395336912341,
+    "timeline_id": "fd869190-b055-11e3-89c0-a0f4b3eb7cb8"
+  },
+  {
+    "created_at": "Thu Mar 20 17:31:44 +0000 2014",
+    "id": 446700629550182400,
+    "id_str": "446700629550182400",
+    "text": "Staci has woven this love story like a fine tapestry.' LUCKY #Kindle #Nook #ebook http://t.co/UutcDVif3h #novel #romance",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 811405866,
+      "id_str": "811405866",
+      "name": "SpiritLightBooks",
+      "screen_name": "SpiritLightBook",
+      "location": "",
+      "url": "http://spiritlightbooks.wordpress.com",
+      "description": "Beautiful stories, devotionals, and novels about God's Grace and love.",
+      "protected": false,
+      "followers_count": 127,
+      "friends_count": 15,
+      "listed_count": 2,
+      "created_at": "Sat Sep 08 18:03:11 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 34036,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "09242B",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/654334121/ob8vzlyhnh9fex726czk.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/654334121/ob8vzlyhnh9fex726czk.jpeg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2589747074/dove_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2589747074/dove_normal.jpg",
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Kindle",
+          "indices": [
+            61,
+            68
+          ]
+        },
+        {
+          "text": "Nook",
+          "indices": [
+            69,
+            74
+          ]
+        },
+        {
+          "text": "ebook",
+          "indices": [
+            75,
+            81
+          ]
+        },
+        {
+          "text": "novel",
+          "indices": [
+            105,
+            111
+          ]
+        },
+        {
+          "text": "romance",
+          "indices": [
+            112,
+            120
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/UutcDVif3h",
+          "expanded_url": "http://ow.ly/uMYIJ",
+          "display_url": "ow.ly/uMYIJ",
+          "indices": [
+            82,
+            104
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446700629550182400",
+    "entity_id": "446700629550182400",
+    "score": "446700629550182400",
+    "queued_at": 1395336708674,
+    "timeline_id": "84218e22-b055-11e3-9a3b-b9a9531e29e7"
+  },
+  {
+    "created_at": "Thu Mar 20 17:30:57 +0000 2014",
+    "id": 446700434217271296,
+    "id_str": "446700434217271296",
+    "text": "Day 22: the kindle cover came!  Love this shade of orange. Current read: Bossypants by Tina Fey. I… http://t.co/kvZkUHofdT",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33187463,
+      "id_str": "33187463",
+      "name": "Tess Neo",
+      "screen_name": "twoleft_feet",
+      "location": "Sunny island ",
+      "url": null,
+      "description": "live, laugh love. VIP, until whenever ♥ 강대성 사랑해 ♚♡",
+      "protected": false,
+      "followers_count": 208,
+      "friends_count": 190,
+      "listed_count": 0,
+      "created_at": "Sun Apr 19 12:19:33 +0000 2009",
+      "favourites_count": 219,
+      "utc_offset": 28800,
+      "time_zone": "Singapore",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 22242,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/677027530/444720f39cb3ef0ca7f5ca80531758ed.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/677027530/444720f39cb3ef0ca7f5ca80531758ed.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/436453494933827584/K2WVYBRo_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/436453494933827584/K2WVYBRo_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33187463/1349426969",
+      "profile_link_color": "990000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/kvZkUHofdT",
+          "expanded_url": "http://instagram.com/p/lxdtBpxr-8/",
+          "display_url": "instagram.com/p/lxdtBpxr-8/",
+          "indices": [
+            100,
+            122
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446700434217271296",
+    "entity_id": "446700434217271296",
+    "score": "446700434217271296",
+    "queued_at": 1395336662757,
+    "timeline_id": "68c3346e-b055-11e3-962b-bcbb462b662e"
+  },
+  {
+    "created_at": "Thu Mar 20 17:30:05 +0000 2014",
+    "id": 446700214515023873,
+    "id_str": "446700214515023873",
+    "text": "#Free Secrets of the Heart by Jenny Lane. Engaging romance. PleaseRT http://t.co/oKsVYMgbju  #WomensFic #Love #ChickLit #RNA #Kindle #Deals",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1288721113,
+      "id_str": "1288721113",
+      "name": "Romantic Endeavours",
+      "screen_name": "Romancendeavour",
+      "location": "London",
+      "url": "http://www.endeavourpress.com",
+      "description": "Romantic Endeavours part of @EndeavourPress. Party Favourites by Laura Lockington. Now on free promotion! http://amzn.to/1k8gm2v",
+      "protected": false,
+      "followers_count": 444,
+      "friends_count": 324,
+      "listed_count": 6,
+      "created_at": "Fri Mar 22 13:35:38 +0000 2013",
+      "favourites_count": 3,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12081,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/823977836/1ee017b697583cffb02863072cd59372.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/823977836/1ee017b697583cffb02863072cd59372.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/438247014728343553/cHvbl2p9_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/438247014728343553/cHvbl2p9_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1288721113/1364209131",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Free",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "WomensFic",
+          "indices": [
+            93,
+            103
+          ]
+        },
+        {
+          "text": "Love",
+          "indices": [
+            104,
+            109
+          ]
+        },
+        {
+          "text": "ChickLit",
+          "indices": [
+            110,
+            119
+          ]
+        },
+        {
+          "text": "RNA",
+          "indices": [
+            120,
+            124
+          ]
+        },
+        {
+          "text": "Kindle",
+          "indices": [
+            125,
+            132
+          ]
+        },
+        {
+          "text": "Deals",
+          "indices": [
+            133,
+            139
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/oKsVYMgbju",
+          "expanded_url": "http://amzn.to/NnFPJO",
+          "display_url": "amzn.to/NnFPJO",
+          "indices": [
+            69,
+            91
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446700214515023873",
+    "entity_id": "446700214515023873",
+    "score": "446700214515023873",
+    "queued_at": 1395336608995,
+    "timeline_id": "48b7b924-b055-11e3-9e1b-45c23afced40"
+  },
+  {
+    "created_at": "Thu Mar 20 17:29:26 +0000 2014",
+    "id": 446700051968978944,
+    "id_str": "446700051968978944",
+    "text": "Love #darkfairytales then you will like this #darkfantasy of a #fairy on #kindle #paperback.  http://t.co/bS3UjKjWFz http://t.co/7LsrQYJnOR",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 18531118,
+      "id_str": "18531118",
+      "name": "William J Crisel",
+      "screen_name": "longnamedguy",
+      "location": "Charleston, South Carolina",
+      "url": "http://www.amazon.com/gp/aw/d/1489599045/ref=redir_mdp_mobile?ref_=cm_sw_su_dp",
+      "description": "Is a writer. Has written a book titled Fairy and Blood: lilac. It can be found on Amazon. The URL is a direct link to it.",
+      "protected": false,
+      "followers_count": 49,
+      "friends_count": 60,
+      "listed_count": 2,
+      "created_at": "Thu Jan 01 17:10:06 +0000 2009",
+      "favourites_count": 29,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 828,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/425453075835265025/HFgONZya_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/425453075835265025/HFgONZya_normal.jpeg",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "darkfairytales",
+          "indices": [
+            5,
+            20
+          ]
+        },
+        {
+          "text": "darkfantasy",
+          "indices": [
+            45,
+            57
+          ]
+        },
+        {
+          "text": "fairy",
+          "indices": [
+            63,
+            69
+          ]
+        },
+        {
+          "text": "kindle",
+          "indices": [
+            73,
+            80
+          ]
+        },
+        {
+          "text": "paperback",
+          "indices": [
+            81,
+            91
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/bS3UjKjWFz",
+          "expanded_url": "http://www.kindlemojo.com/williamcrisel",
+          "display_url": "kindlemojo.com/williamcrisel",
+          "indices": [
+            94,
+            116
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "media": [
+        {
+          "id": 446700051973173250,
+          "id_str": "446700051973173250",
+          "indices": [
+            117,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/BjL_VJ8CcAINMy5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/BjL_VJ8CcAINMy5.jpg",
+          "url": "http://t.co/7LsrQYJnOR",
+          "display_url": "pic.twitter.com/7LsrQYJnOR",
+          "expanded_url": "http://twitter.com/longnamedguy/status/446700051968978944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 927,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 526,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1583,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446700051968978944",
+    "entity_id": "446700051968978944",
+    "score": "446700051968978944",
+    "queued_at": 1395336571362,
+    "timeline_id": "32496f8e-b055-11e3-881f-2bb2ccbc66ee"
+  },
+  {
+    "created_at": "Thu Mar 20 17:29:25 +0000 2014",
+    "id": 446700047091396608,
+    "id_str": "446700047091396608",
+    "text": "#100happydays Whilst I love my kindle, there really is something special about a book. http://t.co/PMkpK28SHd",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 33188497,
+      "id_str": "33188497",
+      "name": "CMorEvil",
+      "screen_name": "ChantelleMor",
+      "location": "",
+      "url": null,
+      "description": "Finding my inner otter. Turning left. Random things my fridge. Scratchy post.",
+      "protected": false,
+      "followers_count": 71,
+      "friends_count": 69,
+      "listed_count": 0,
+      "created_at": "Sun Apr 19 12:26:25 +0000 2009",
+      "favourites_count": 9,
+      "utc_offset": -10800,
+      "time_zone": "Greenland",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2469,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/446679088435310592/1vAYSo0O_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/446679088435310592/1vAYSo0O_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/33188497/1395331652",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "100happydays",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/PMkpK28SHd",
+          "expanded_url": "http://instagram.com/p/lxdhxVpCPp/",
+          "display_url": "instagram.com/p/lxdhxVpCPp/",
+          "indices": [
+            87,
+            109
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446700047091396608",
+    "entity_id": "446700047091396608",
+    "score": "446700047091396608",
+    "queued_at": 1395336570729,
+    "timeline_id": "31e8bfc2-b055-11e3-8c9f-bc589147eda6"
+  },
+  {
+    "created_at": "Thu Mar 20 17:26:04 +0000 2014",
+    "id": 446699204841205760,
+    "id_str": "446699204841205760",
+    "text": "Intimate Conversations for Couples: Turn Your Relationship Into a Lifelong Love Affair [Kindle Edition] http://t.co/PzKzigoBJB\n\n#mustread",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 559798931,
+      "id_str": "559798931",
+      "name": "Ricky M. Hansen Jr.",
+      "screen_name": "RickyMHansenJr",
+      "location": "Scottsdale, Arizona ",
+      "url": "http://www.indie-book-promo.com",
+      "description": "Author of The Art of the Knuckle Sandwich. I am a funny, positive guy who loves to kick ass in life! Owner of http://t.co/QgP5o3CmLl #followme #dreambig",
+      "protected": false,
+      "followers_count": 13501,
+      "friends_count": 14317,
+      "listed_count": 130,
+      "created_at": "Sat Apr 21 19:05:41 +0000 2012",
+      "favourites_count": 691,
+      "utc_offset": -25200,
+      "time_zone": "Arizona",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 10849,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DE2121",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/871498458/9b9045421af59c63b14fddafb97cf0a8.jpeg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/871498458/9b9045421af59c63b14fddafb97cf0a8.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000108311612/c6d669321f4391531a1bc567a403b573_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000108311612/c6d669321f4391531a1bc567a403b573_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/559798931/1359531686",
+      "profile_link_color": "1849DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "mustread",
+          "indices": [
+            128,
+            137
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/PzKzigoBJB",
+          "expanded_url": "http://amzn.to/1os2gv8",
+          "display_url": "amzn.to/1os2gv8",
+          "indices": [
+            104,
+            126
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446699204841205760",
+    "entity_id": "446699204841205760",
+    "score": "446699204841205760",
+    "queued_at": 1395336368750,
+    "timeline_id": "b98542a8-b054-11e3-9554-12daf093aa7c"
+  },
+  {
+    "created_at": "Thu Mar 20 17:26:04 +0000 2014",
+    "id": 446699204732125184,
+    "id_str": "446699204732125184",
+    "text": "Intimate Conversations for Couples: Turn Your Relationship Into a Lifelong Love Affair [Kindle Edition] http://t.co/7ETiMDZZa8\n\n#mustread",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1388078160,
+      "id_str": "1388078160",
+      "name": "Indie Book Promo",
+      "screen_name": "FreeRTforIndies",
+      "location": "",
+      "url": "http://www.indie-book-promo.com",
+      "description": "Sister site of @IndiesBookPromo @Blogsquares @RickyMHansenJr #follow #indiebooks #amwriting",
+      "protected": false,
+      "followers_count": 1697,
+      "friends_count": 1843,
+      "listed_count": 14,
+      "created_at": "Sun Apr 28 22:46:08 +0000 2013",
+      "favourites_count": 96,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 4559,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3648691324/e268eb967d530aa837eff55244600bdc_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3648691324/e268eb967d530aa837eff55244600bdc_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "mustread",
+          "indices": [
+            128,
+            137
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/7ETiMDZZa8",
+          "expanded_url": "http://amzn.to/1os2gv8",
+          "display_url": "amzn.to/1os2gv8",
+          "indices": [
+            104,
+            126
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446699204732125184",
+    "entity_id": "446699204732125184",
+    "score": "446699204732125184",
+    "queued_at": 1395336368393,
+    "timeline_id": "b94eb760-b054-11e3-8b50-e99b917f3856"
+  },
+  {
+    "created_at": "Thu Mar 20 17:26:04 +0000 2014",
+    "id": 446699205046726656,
+    "id_str": "446699205046726656",
+    "text": "Intimate Conversations for Couples: Turn Your Relationship Into a Lifelong Love Affair [Kindle Edition] http://t.co/nuTizf6iFt\n\n#mustread",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1140274477,
+      "id_str": "1140274477",
+      "name": "Indie Book Promotion",
+      "screen_name": "IndiesBookPromo",
+      "location": "",
+      "url": "http://www.indie-book-promo.com",
+      "description": "Indie Book Promotion. Find us on #FB http://tinyurl.com/q8uzydk Let us help to get your name out by using our VAST distribution systems. Tag - #IndieBookPromos",
+      "protected": false,
+      "followers_count": 31206,
+      "friends_count": 5568,
+      "listed_count": 77,
+      "created_at": "Fri Feb 01 17:26:17 +0000 2013",
+      "favourites_count": 205,
+      "utc_offset": -25200,
+      "time_zone": "Arizona",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5745,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "DBE9ED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/411754842705522688/D5cBAI8p_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/411754842705522688/D5cBAI8p_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140274477/1366765984",
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "DBE9ED",
+      "profile_sidebar_fill_color": "E6F6F9",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "mustread",
+          "indices": [
+            128,
+            137
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/nuTizf6iFt",
+          "expanded_url": "http://amzn.to/1os2gv8",
+          "display_url": "amzn.to/1os2gv8",
+          "indices": [
+            104,
+            126
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446699205046726656",
+    "entity_id": "446699205046726656",
+    "score": "446699205046726656",
+    "queued_at": 1395336368001,
+    "timeline_id": "b912e8e8-b054-11e3-84d2-b3181bf3acfd"
+  },
+  {
+    "created_at": "Thu Mar 20 17:26:04 +0000 2014",
+    "id": 446699204769873920,
+    "id_str": "446699204769873920",
+    "text": "Intimate Conversations for Couples: Turn Your Relationship Into a Lifelong Love Affair [Kindle Edition] http://t.co/iSv7TkRjkI\n\n#mustread",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1147174046,
+      "id_str": "1147174046",
+      "name": "IndieBookPromo",
+      "screen_name": "BlogSquares",
+      "location": "Phoenix",
+      "url": "http://www.indie-book-promo.com",
+      "description": "Sister account to @IndiesBookPromo and @RickyMHansenJr . Helping to promote #IndieAuthors . Contact us for our promotion packages!",
+      "protected": false,
+      "followers_count": 1776,
+      "friends_count": 1825,
+      "listed_count": 26,
+      "created_at": "Mon Feb 04 06:02:27 +0000 2013",
+      "favourites_count": 97,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5067,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/411764244313415680/B9Lxd52u_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/411764244313415680/B9Lxd52u_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1147174046/1368166082",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "mustread",
+          "indices": [
+            128,
+            137
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/iSv7TkRjkI",
+          "expanded_url": "http://amzn.to/1os2gv8",
+          "display_url": "amzn.to/1os2gv8",
+          "indices": [
+            104,
+            126
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446699204769873920",
+    "entity_id": "446699204769873920",
+    "score": "446699204769873920",
+    "queued_at": 1395336367283,
+    "timeline_id": "b8a57218-b054-11e3-8c9c-8c82a08f1b3e"
+  },
+  {
+    "created_at": "Thu Mar 20 17:25:32 +0000 2014",
+    "id": 446699071680434176,
+    "id_str": "446699071680434176",
+    "text": "77. \"As soon go kindle fire with snow, as seek to quench the fire of love with words.\" \nWilliam Shakespeare",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2207800966,
+      "id_str": "2207800966",
+      "name": "blueeyed444",
+      "screen_name": "blueeyed444",
+      "location": "",
+      "url": null,
+      "description": "Life is an adventure. Always find time to laugh and play. I adore poetry, music, b&w films, and cuddling. #Snowangel 18+ USA. TAKEN",
+      "protected": false,
+      "followers_count": 1061,
+      "friends_count": 1081,
+      "listed_count": 32,
+      "created_at": "Wed Dec 04 19:18:53 +0000 2013",
+      "favourites_count": 20603,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9796,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000829684858/9d2738dfb589777f3f787cf7b7421efb_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000829684858/9d2738dfb589777f3f787cf7b7421efb_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2207800966/1386188739",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446699071680434176",
+    "entity_id": "446699071680434176",
+    "score": "446699071680434176",
+    "queued_at": 1395336338090,
+    "timeline_id": "a73ee09a-b054-11e3-9ec7-52f5d40dc3a0"
+  },
+  {
+    "created_at": "Thu Mar 20 17:25:26 +0000 2014",
+    "id": 446699044706869248,
+    "id_str": "446699044706869248",
+    "text": "Brenda Ashworth Barry's Seasons of Love and War MARCH 26th Available at https://t.co/WkQwLKW29O LuLu and amazon kindle GET YOUR COPY!",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 479655342,
+      "id_str": "479655342",
+      "name": "cynthia Watson",
+      "screen_name": "CynthiaR70",
+      "location": "",
+      "url": "http://brendaashworthbarry.com",
+      "description": "Author assistant/Partner in Lines with Author Brenda Barry and I'm also a detox specialist. Love to study herbs and nutrition. Enjoy creative scene making :)",
+      "protected": false,
+      "followers_count": 111,
+      "friends_count": 150,
+      "listed_count": 2,
+      "created_at": "Tue Jan 31 16:32:25 +0000 2012",
+      "favourites_count": 0,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 271,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1808843927/me_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1808843927/me_normal.jpg",
+      "profile_link_color": "990000",
+      "profile_sidebar_border_color": "DFDFDF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/WkQwLKW29O",
+          "expanded_url": "https://www.facebook.com/MelangeBooksLLC",
+          "display_url": "facebook.com/MelangeBooksLLC",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446699044706869248",
+    "entity_id": "446699044706869248",
+    "score": "446699044706869248",
+    "queued_at": 1395336330415,
+    "timeline_id": "a2abd7cc-b054-11e3-93cb-82603701f7df"
+  },
+  {
+    "created_at": "Thu Mar 20 17:20:43 +0000 2014",
+    "id": 446697859128492032,
+    "id_str": "446697859128492032",
+    "text": "\"This love story balances terror with freedom a 4-Star #kindle #novel #fiction http://t.co/38rVEtEMmd\"",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 465771158,
+      "id_str": "465771158",
+      "name": "Marcelo Espinosa",
+      "screen_name": "MarcelosSecret",
+      "location": "Miami FL",
+      "url": "http://www.marcelossecret.com/index.html",
+      "description": "1597:Raised as a Catholic by Sephardic Jewish parents forced to covertly practice their religion. George Vergara gives life to this historic tale of oppresion",
+      "protected": false,
+      "followers_count": 142,
+      "friends_count": 188,
+      "listed_count": 1,
+      "created_at": "Mon Jan 16 18:30:33 +0000 2012",
+      "favourites_count": 3,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5552,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "8B542B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1818033077/100_Marcelo_COVER_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1818033077/100_Marcelo_COVER_normal.jpg",
+      "profile_link_color": "9D582E",
+      "profile_sidebar_border_color": "D9B17E",
+      "profile_sidebar_fill_color": "EADEAA",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kindle",
+          "indices": [
+            55,
+            62
+          ]
+        },
+        {
+          "text": "novel",
+          "indices": [
+            63,
+            69
+          ]
+        },
+        {
+          "text": "fiction",
+          "indices": [
+            70,
+            78
+          ]
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/38rVEtEMmd",
+          "expanded_url": "http://ow.ly/uLlBQ",
+          "display_url": "ow.ly/uLlBQ",
+          "indices": [
+            79,
+            101
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "medium",
+    "lang": "en",
+    "network": "twitter",
+    "order_id": "446697859128492032",
+    "entity_id": "446697859128492032",
+    "score": "446697859128492032",
+    "queued_at": 1395336046408,
+    "timeline_id": "f963cb3e-b053-11e3-870c-d952b76e8d2d"
+  }
+]
