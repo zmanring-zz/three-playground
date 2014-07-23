@@ -1,5 +1,5 @@
 // standard global variables
-var container, scene, camera, renderer, controls, stats, cube, woodTexture, textColor="#669900", spinFloor;
+var container, scene, camera, renderer, controls, stats, cube, woodTexture, textColor="#669900", spinFloor=false;
 
 init();
 animate();
@@ -219,10 +219,6 @@ $('form').on('submit', function(e) {
 });
 
 $('.spin-floor').on('click', function() {
-  if (spinFloor) {
-    spinFloor = false;
-  } else {
-    spinFloor = true;
-  }
+  spinFloor = !spinFloor
   
 });
