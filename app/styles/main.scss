@@ -1,8 +1,7 @@
-$icon-font-path: "/bower_components/sass-bootstrap/fonts/";
-
-/* apply a natural box layout model to all elements */
 *, *:before, *:after {
-  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
  }
 
 body {

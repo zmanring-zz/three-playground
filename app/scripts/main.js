@@ -122,7 +122,7 @@ function init() {
 
   for (i=0; i < 6; i++) {
 
-    cube = new THREE.Mesh(new THREE.CubeGeometry(100, 100, 100), new THREE.MeshLambertMaterial({
+    cube = new THREE.Mesh(new THREE.BoxGeometry(100, 100, 100), new THREE.MeshLambertMaterial({
       map: woodTexture,
       color: colors[i]
     }));
@@ -219,6 +219,5 @@ $('form').on('submit', function(e) {
 });
 
 $('.spin-floor').on('click', function() {
-  spinFloor = !spinFloor
-  
+  spinFloor = !spinFloor;  
 });
