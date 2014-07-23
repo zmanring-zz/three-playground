@@ -58,6 +58,10 @@ module.exports = function(grunt) {
           '.tmp/styles/{,*/}*.css',
           '<%= yeoman.app %>/images/{,*/}*.{gif,jpeg,jpg,png,svg,webp}'
         ]
+      },
+      jade: {
+        files: '<%= yeoman.app %>/**/*.jade',
+        tasks: ['jade']
       }
     },
 
@@ -66,7 +70,6 @@ module.exports = function(grunt) {
       options: {
         port: 9000,
         livereload: 35729,
-        // Change this to '0.0.0.0' to access the server from outside
         hostname: '0.0.0.0'
       },
       livereload: {
@@ -126,19 +129,22 @@ module.exports = function(grunt) {
       ]
     },
 
-
-    // Mocha testing framework configuration options
-    mocha: {
-      all: {
+    jade: {
+      html: {
+        files: [{
+          expand: true,
+          cwd: '<%= yeoman.app %>',
+          src: ['**/*.jade', '!**/_*'],
+          dest: '.tmp/',
+          ext: '.html'
+        }],
         options: {
-          run: true,
-          urls: ['http://<%= connect.test.options.hostname %>:<%= connect.test.options.port %>/index.html']
+          client: false,
+          pretty: true,
+          basedir: '<%= yeoman.app %>'
         }
       }
     },
-
-
-
 
     // Compiles Sass to CSS and generates necessary files if requested
     compass: {
@@ -338,28 +344,9 @@ module.exports = function(grunt) {
       'clean:server',
       'concurrent:server',
       'autoprefixer',
+      'jade',
       'connect:livereload',
       'watch'
-    ]);
-  });
-
-  grunt.registerTask('server', function() {
-    grunt.log.warn('The `server` task has been deprecated. Use `grunt serve` to start a server.');
-    grunt.task.run(['serve']);
-  });
-
-  grunt.registerTask('test', function(target) {
-    if (target !== 'watch') {
-      grunt.task.run([
-        'clean:server',
-        'concurrent:test',
-        'autoprefixer',
-      ]);
-    }
-
-    grunt.task.run([
-      'connect:test',
-      'mocha'
     ]);
   });
 
