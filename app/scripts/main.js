@@ -1,16 +1,48 @@
-// standard global variables
-var container, scene, camera, renderer, controls, stats, cube, woodTexture, textColor="#669900", spinFloor=false;
+'use strict';
 
-init();
-animate();
+var boxTexture,
+  camera,
+  colors,
+  container,
+  controls,
+  floor,
+  group,
+  objects = [],
+  projector,
+  renderer,
+  scene,
+  spinFloor,
+  stats,
+  textColor = 'red',
+  textMesh,
+  woodTexture;
+
+projector = new THREE.Projector();
 
 // functions
+function playSound() {
+
+  var context = new AudioContext();
+  var lineOut = new WebAudiox.LineOut(context);
+
+  // load a sound and play it immediatly
+  WebAudiox.loadBuffer(context, '../audio/Collision8-Bit.ogg', function(buffer) {
+
+    var source = context.createBufferSource();
+    source.buffer = buffer;
+    source.connect(lineOut.destination);
+
+    // start the sound now
+    source.start(0);
+  });
+}
+
 function createText(color) {
   var materialFront = new THREE.MeshLambertMaterial({
     color: color
   });
   var materialSide = new THREE.MeshLambertMaterial({
-    color: "#fff"
+    color: '#fff'
   });
 
   var materialArray = [materialFront, materialSide];
@@ -19,9 +51,9 @@ function createText(color) {
     size: 100,
     height: 30,
     curveSegments: 3,
-    font: "helvetiker",
-    weight: "bold",
-    style: "normal",
+    font: 'helvetiker',
+    weight: 'bold',
+    style: 'normal',
     bevelThickness: 1,
     bevelSize: 2,
     bevelEnabled: true,
@@ -88,14 +120,18 @@ function init() {
   // container.appendChild( stats.domElement );
 
   // texture
-  woodTexture = THREE.ImageUtils.loadTexture( "../images/texture.jpg" );
+  woodTexture = THREE.ImageUtils.loadTexture('../images/texture.jpg');
   woodTexture.wrapS = THREE.RepeatWrapping;
   woodTexture.wrapT = THREE.RepeatWrapping;
   // texture.repeat.set( 4, 4 );
 
+  boxTexture = THREE.ImageUtils.loadTexture('../images/box-texture.jpg');
+  boxTexture.wrapS = THREE.RepeatWrapping;
+  boxTexture.wrapT = THREE.RepeatWrapping;
+
   // LIGHT
   var spotLight = new THREE.SpotLight(0xffffff, 3);
-  spotLight.position.set(0, 800, 200);
+  spotLight.position.set(0, 800, 500);
 
   spotLight.castShadow = true;
 
@@ -106,7 +142,7 @@ function init() {
   spotLight.shadowCameraFar = 4000;
   spotLight.shadowCameraFov = 30;
 
-  scene.add( spotLight );
+  scene.add(spotLight);
 
   // HemisphereLight
   var hemisphereLight = new THREE.HemisphereLight(0xffffff, 0x0000ff, 1);
@@ -120,20 +156,33 @@ function init() {
 
   colors = ['white', 'green', 'red', 'blue', 'orange', 'yellow'];
 
-  for (i=0; i < 6; i++) {
+  for (var i = 0; i < 6; i++) {
 
-    cube = new THREE.Mesh(new THREE.BoxGeometry(100, 100, 100), new THREE.MeshLambertMaterial({
-      map: woodTexture,
+    var cube = new THREE.Mesh(new THREE.BoxGeometry(100, 100, 100), new THREE.MeshLambertMaterial({
+      map: boxTexture,
       color: colors[i]
     }));
 
+    cube.callback = function() {
+
+      if (!this.stop) {
+        this.stop = true;
+        playSound();
+      } else {
+        this.stop = false;
+      }
+
+    }
+
     // cube.position.y = 50*(i+1)-(25);
     cube.position.y = 0;
-    cube.position.x = (i*160) - 400;
+    cube.position.x = (i * 160) - 400;
     cube.position.z = 0;
 
     cube.castShadow = true;
-    cube.receiveShadow = false;
+    cube.receiveShadow = true;
+
+    objects.push(cube);
 
     group.add(cube);
 
@@ -156,32 +205,42 @@ function init() {
   floor.castShadow = false;
   floor.receiveShadow = true;
 
-
-
   scene.add(floor);
 
 
   // SKYBOX/FOG
-  var skyBoxGeometry = new THREE.BoxGeometry( 10000, 10000, 10000 );
-  var skyBoxMaterial = new THREE.MeshBasicMaterial( { color: '#222', side: THREE.DoubleSide } );
-  var skyBox = new THREE.Mesh( skyBoxGeometry, skyBoxMaterial );
+  var skyBoxGeometry = new THREE.BoxGeometry(10000, 10000, 10000);
+  var skyBoxMaterial = new THREE.MeshBasicMaterial({
+    color: '#222',
+    side: THREE.DoubleSide
+  });
+  var skyBox = new THREE.Mesh(skyBoxGeometry, skyBoxMaterial);
 
   scene.add(skyBox);
-  scene.fog = new THREE.FogExp2( 0x222222, 0.0006 );
+  scene.fog = new THREE.FogExp2(0x222222, 0.0006);
 
   // add 3D text
   createText(textColor);
+
 }
 
 function animate() {
   requestAnimationFrame(animate);
 
-  for (i=0; i < group.children.length; i++) {
+  for (var i = 0; i < group.children.length; i++) {
 
-    if (i%2) {
-      group.children[i].rotation.y += 0.1;
+    if (!group.children[i].stop) {
+
+      if (i % 2) {
+        group.children[i].rotation.y += 0.1;
+      } else {
+        group.children[i].rotation.y -= 0.1;
+      }
+
     } else {
-      group.children[i].rotation.y -= 0.1;
+
+      group.children[i].position.y += 0.4;
+
     }
 
   }
@@ -208,6 +267,30 @@ function render() {
   renderer.render(scene, camera);
 }
 
+function onDocumentMouseDown(event) {
+  event.preventDefault();
+
+  var vector = new THREE.Vector3((event.clientX / window.innerWidth) * 2 - 1, -(event.clientY / window.innerHeight) * 2 + 1, 0.5);
+
+  projector.unprojectVector(vector, camera);
+
+  var ray = new THREE.Raycaster(camera.position, vector.sub(camera.position).normalize());
+
+  var intersects = ray.intersectObjects(objects);
+
+  if (intersects.length > 0) {
+
+    console.log(intersects);
+    intersects[0].object.callback();
+
+  }
+
+}
+
+// init
+init();
+animate();
+
 //events
 $('form').on('submit', function(e) {
   e.preventDefault();
@@ -215,9 +298,12 @@ $('form').on('submit', function(e) {
   scene.remove(textMesh);
   textColor = $('.text-input').val();
   createText(textColor);
-
 });
 
 $('.spin-floor').on('click', function() {
-  spinFloor = !spinFloor;  
+  spinFloor = !spinFloor;
+});
+
+$('#ThreeJS').on('click', function(e) {
+  onDocumentMouseDown(e);
 });
